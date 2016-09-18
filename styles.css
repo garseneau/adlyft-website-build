@@ -1,0 +1,83 @@
+/* add your CSS here */
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #282828;
+}
+
+h3 {
+	font-family: 'Hind', sans-serif;
+	font-size: 2.7em;
+    line-height: 0.1;
+}
+
+.picture {
+	border-radius: 20px 20px 0 0;
+	margin-bottom: 5px;
+}
+.subheading {
+	font-size: 0.5em;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.card-border {
+	border: 1px solid #cecece;
+	border-radius: 20px;
+	width: 300px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #e6e6e6;
+	background:  
+	linear-gradient(
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.65)
+      ), 
+		url(texture.png);
+}
+
+.container {
+	border: 1px solid #cecece;
+	padding: 0 10px 0 10px;
+	border-radius: 0 0 20px 20px;
+	background: #ede6cd;
+}
+
+.caption {
+    font-size: 0.75em;
+    font-style: italic;
+  }
+
+ ul {
+ 	padding: 0;
+  	list-style: none;
+  }
+
+ .list-title {
+  	font-weight: 800;
+ }
+
+ .body-text {
+  	font-size: 0.9em;
+ }
+
+.btn-container {
+	text-align: center;
+}
+
+button {
+    background-color: #85c556;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    padding: 12px 28px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+button:hover {
+	background-color: #9ed898;
+}
+
