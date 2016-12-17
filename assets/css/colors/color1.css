@@ -1,0 +1,114 @@
+.brand-text {
+    color: #1d75bd !important;
+}
+
+.brand-text i {
+    color: #1d75bd !important;
+}
+
+.brand-bg,
+.sweet-alert button {
+    background-color: #1d75bd !important;
+}
+
+.waves-effect.waves-brand  {
+    background-color: rgba(99, 183, 230, 0.66);
+}
+
+.p-overlay {
+    background-color: rgba(99, 183, 230, 0.9);
+}
+
+
+.circle-loader .path {
+    stroke: #1d75bd;
+}
+
+
+.side-nav  li.current a,
+.side-nav  li a:hover {
+    border-bottom-color: #1d75bd;
+}
+
+.static-menu li i:hover,
+.static-menu li a:hover,
+.submenu-ul li a:hover,
+.about-subtitle,
+.person-about > a.btn-large,
+.about-social ul li a i,
+.skill-title,
+.skill-count,
+.single-widget ul li a,
+.single-post-content a,
+.share-post li a:hover,
+.com-title a,
+span.num {
+    color: #1d75bd;
+}
+
+.home-title span {
+    color: #63b7e6;
+}
+
+.singel-hr-inner,
+.hr-wrap,
+.hrc:after,
+.thumb-slides-container.owl-theme .owl-controls .owl-page.active span,
+.blog-inner .card-content a.right:hover,
+.blog-inner .card-content a.right:focus,
+.contact-form .submit-btn:hover,
+.contact-form .submit-btn:focus,
+a.tags,
+.blog-inner .card-content a.right:active {
+    background-color: #63b7e6;
+}
+
+.contact-form .materialize-textarea:focus,
+.contact-form .input-box:focus {
+    border-color: #1d75bd;
+    box-shadow: 0px 1px 0px #1d75bd;
+}
+
+
+.single-post-content blockquote {
+    border-left: 5px solid #1d75bd;
+}
+
+
+
+@-webkit-keyframes color {
+    0%   {stroke: #1d75bd;}
+    20%  {stroke: #1d75bd;}
+    25%  {stroke: #1d75bd;}
+    45%  {stroke: #1d75bd;}
+    50%  {stroke: #1d75bd;}
+    70%  {stroke: #1d75bd;}
+    75%  {stroke: #1d75bd;}
+    95%  {stroke: #1d75bd;}
+}
+
+@keyframes color {
+    0%   {stroke: #1d75bd;}
+    20%  {stroke: #1d75bd;}
+    25%  {stroke: #1d75bd;}
+    45%  {stroke: #1d75bd;}
+    50%  {stroke: #1d75bd;}
+    70%  {stroke: #1d75bd;}
+    75%  {stroke: #1d75bd;}
+    95%  {stroke: #1d75bd;}
+}
+
+
+/* Add your CSS below */
+
+
+
+
+.menu-select [type="radio"]:checked + label:after {
+    border-color: #1d75bd;
+    background-color: #1d75bd;
+}
+
+#dark-blue {
+    background-color: #1d75bd;
+}

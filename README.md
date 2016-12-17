@@ -1,4 +1,3 @@
-# animal-trading-card-css
-This is a README file
+# adlyft-website-build
 
-A CSS-based design for animal trading cards.
+Adtech startup site built using material design.
